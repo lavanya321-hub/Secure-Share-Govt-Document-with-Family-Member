@@ -91,6 +91,9 @@ secure-doc-share/
 ├── LICENSE               # MIT License
 └── README.md             # Project documentation
 
+🌐 Live Demo
+Check out our live demo: secure-doc-share.vercel.app
+
 🔒 Security Features
 End-to-end file encryption
 
@@ -136,9 +139,7 @@ Open a Pull Request
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
 
-📬 Contact
-Project Lead: [Your Name]
-Email: your.email@example.com
-Issues: GitHub Issues
-
+📧 Contact
+Project Lead: Lavanya S
+Project Link: https://github.com/lavanya321-hub/Secure-Share-Govt-Document-with-Family-Member/
 <div align="center"> <sub>Built with ❤️ for secure document management</sub> </div> ```
